@@ -1,0 +1,15 @@
+C:\Users\trizn\OneDrive\Рабочий стол\GeekBrains\Знакомство с языками програмирования (C#)\Examples\Examples006_Base\obj\Debug\net6.0\Examples006_Base.csproj.AssemblyReference.cache
+C:\Users\trizn\OneDrive\Рабочий стол\GeekBrains\Знакомство с языками програмирования (C#)\Examples\Examples006_Base\obj\Debug\net6.0\Examples006_Base.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\trizn\OneDrive\Рабочий стол\GeekBrains\Знакомство с языками програмирования (C#)\Examples\Examples006_Base\obj\Debug\net6.0\Examples006_Base.AssemblyInfoInputs.cache
+C:\Users\trizn\OneDrive\Рабочий стол\GeekBrains\Знакомство с языками програмирования (C#)\Examples\Examples006_Base\obj\Debug\net6.0\Examples006_Base.AssemblyInfo.cs
+C:\Users\trizn\OneDrive\Рабочий стол\GeekBrains\Знакомство с языками програмирования (C#)\Examples\Examples006_Base\obj\Debug\net6.0\Examples006_Base.csproj.CoreCompileInputs.cache
+C:\Users\trizn\OneDrive\Рабочий стол\GeekBrains\Знакомство с языками програмирования (C#)\Examples\Examples006_Base\bin\Debug\net6.0\Examples006_Base.exe
+C:\Users\trizn\OneDrive\Рабочий стол\GeekBrains\Знакомство с языками програмирования (C#)\Examples\Examples006_Base\bin\Debug\net6.0\Examples006_Base.deps.json
+C:\Users\trizn\OneDrive\Рабочий стол\GeekBrains\Знакомство с языками програмирования (C#)\Examples\Examples006_Base\bin\Debug\net6.0\Examples006_Base.runtimeconfig.json
+C:\Users\trizn\OneDrive\Рабочий стол\GeekBrains\Знакомство с языками програмирования (C#)\Examples\Examples006_Base\bin\Debug\net6.0\Examples006_Base.dll
+C:\Users\trizn\OneDrive\Рабочий стол\GeekBrains\Знакомство с языками програмирования (C#)\Examples\Examples006_Base\bin\Debug\net6.0\Examples006_Base.pdb
+C:\Users\trizn\OneDrive\Рабочий стол\GeekBrains\Знакомство с языками програмирования (C#)\Examples\Examples006_Base\obj\Debug\net6.0\Examples006_Base.dll
+C:\Users\trizn\OneDrive\Рабочий стол\GeekBrains\Знакомство с языками програмирования (C#)\Examples\Examples006_Base\obj\Debug\net6.0\refint\Examples006_Base.dll
+C:\Users\trizn\OneDrive\Рабочий стол\GeekBrains\Знакомство с языками програмирования (C#)\Examples\Examples006_Base\obj\Debug\net6.0\Examples006_Base.pdb
+C:\Users\trizn\OneDrive\Рабочий стол\GeekBrains\Знакомство с языками програмирования (C#)\Examples\Examples006_Base\obj\Debug\net6.0\Examples006_Base.genruntimeconfig.cache
+C:\Users\trizn\OneDrive\Рабочий стол\GeekBrains\Знакомство с языками програмирования (C#)\Examples\Examples006_Base\obj\Debug\net6.0\ref\Examples006_Base.dll
