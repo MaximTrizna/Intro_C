@@ -1,0 +1,15 @@
+C:\Users\trizn\OneDrive\Рабочий стол\GeekBrains\Знакомство с языками програмирования (C#)\Examples\Examples003_Sum\obj\Debug\net6.0\Examples003_Sum.csproj.AssemblyReference.cache
+C:\Users\trizn\OneDrive\Рабочий стол\GeekBrains\Знакомство с языками програмирования (C#)\Examples\Examples003_Sum\obj\Debug\net6.0\Examples003_Sum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\trizn\OneDrive\Рабочий стол\GeekBrains\Знакомство с языками програмирования (C#)\Examples\Examples003_Sum\obj\Debug\net6.0\Examples003_Sum.AssemblyInfoInputs.cache
+C:\Users\trizn\OneDrive\Рабочий стол\GeekBrains\Знакомство с языками програмирования (C#)\Examples\Examples003_Sum\obj\Debug\net6.0\Examples003_Sum.AssemblyInfo.cs
+C:\Users\trizn\OneDrive\Рабочий стол\GeekBrains\Знакомство с языками програмирования (C#)\Examples\Examples003_Sum\obj\Debug\net6.0\Examples003_Sum.csproj.CoreCompileInputs.cache
+C:\Users\trizn\OneDrive\Рабочий стол\GeekBrains\Знакомство с языками програмирования (C#)\Examples\Examples003_Sum\bin\Debug\net6.0\Examples003_Sum.exe
+C:\Users\trizn\OneDrive\Рабочий стол\GeekBrains\Знакомство с языками програмирования (C#)\Examples\Examples003_Sum\bin\Debug\net6.0\Examples003_Sum.deps.json
+C:\Users\trizn\OneDrive\Рабочий стол\GeekBrains\Знакомство с языками програмирования (C#)\Examples\Examples003_Sum\bin\Debug\net6.0\Examples003_Sum.runtimeconfig.json
+C:\Users\trizn\OneDrive\Рабочий стол\GeekBrains\Знакомство с языками програмирования (C#)\Examples\Examples003_Sum\bin\Debug\net6.0\Examples003_Sum.dll
+C:\Users\trizn\OneDrive\Рабочий стол\GeekBrains\Знакомство с языками програмирования (C#)\Examples\Examples003_Sum\bin\Debug\net6.0\Examples003_Sum.pdb
+C:\Users\trizn\OneDrive\Рабочий стол\GeekBrains\Знакомство с языками програмирования (C#)\Examples\Examples003_Sum\obj\Debug\net6.0\Examples003_Sum.dll
+C:\Users\trizn\OneDrive\Рабочий стол\GeekBrains\Знакомство с языками програмирования (C#)\Examples\Examples003_Sum\obj\Debug\net6.0\refint\Examples003_Sum.dll
+C:\Users\trizn\OneDrive\Рабочий стол\GeekBrains\Знакомство с языками програмирования (C#)\Examples\Examples003_Sum\obj\Debug\net6.0\Examples003_Sum.pdb
+C:\Users\trizn\OneDrive\Рабочий стол\GeekBrains\Знакомство с языками програмирования (C#)\Examples\Examples003_Sum\obj\Debug\net6.0\Examples003_Sum.genruntimeconfig.cache
+C:\Users\trizn\OneDrive\Рабочий стол\GeekBrains\Знакомство с языками програмирования (C#)\Examples\Examples003_Sum\obj\Debug\net6.0\ref\Examples003_Sum.dll
