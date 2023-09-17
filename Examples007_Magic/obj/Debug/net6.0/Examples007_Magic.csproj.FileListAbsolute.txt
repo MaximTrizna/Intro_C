@@ -1,0 +1,15 @@
+C:\Users\trizn\OneDrive\Рабочий стол\GeekBrains\Знакомство с языками програмирования (C#)\Examples\Examples007_Magic\obj\Debug\net6.0\Examples007_Magic.csproj.AssemblyReference.cache
+C:\Users\trizn\OneDrive\Рабочий стол\GeekBrains\Знакомство с языками програмирования (C#)\Examples\Examples007_Magic\obj\Debug\net6.0\Examples007_Magic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\trizn\OneDrive\Рабочий стол\GeekBrains\Знакомство с языками програмирования (C#)\Examples\Examples007_Magic\obj\Debug\net6.0\Examples007_Magic.AssemblyInfoInputs.cache
+C:\Users\trizn\OneDrive\Рабочий стол\GeekBrains\Знакомство с языками програмирования (C#)\Examples\Examples007_Magic\obj\Debug\net6.0\Examples007_Magic.AssemblyInfo.cs
+C:\Users\trizn\OneDrive\Рабочий стол\GeekBrains\Знакомство с языками програмирования (C#)\Examples\Examples007_Magic\obj\Debug\net6.0\Examples007_Magic.csproj.CoreCompileInputs.cache
+C:\Users\trizn\OneDrive\Рабочий стол\GeekBrains\Знакомство с языками програмирования (C#)\Examples\Examples007_Magic\bin\Debug\net6.0\Examples007_Magic.exe
+C:\Users\trizn\OneDrive\Рабочий стол\GeekBrains\Знакомство с языками програмирования (C#)\Examples\Examples007_Magic\bin\Debug\net6.0\Examples007_Magic.deps.json
+C:\Users\trizn\OneDrive\Рабочий стол\GeekBrains\Знакомство с языками програмирования (C#)\Examples\Examples007_Magic\bin\Debug\net6.0\Examples007_Magic.runtimeconfig.json
+C:\Users\trizn\OneDrive\Рабочий стол\GeekBrains\Знакомство с языками програмирования (C#)\Examples\Examples007_Magic\bin\Debug\net6.0\Examples007_Magic.dll
+C:\Users\trizn\OneDrive\Рабочий стол\GeekBrains\Знакомство с языками програмирования (C#)\Examples\Examples007_Magic\bin\Debug\net6.0\Examples007_Magic.pdb
+C:\Users\trizn\OneDrive\Рабочий стол\GeekBrains\Знакомство с языками програмирования (C#)\Examples\Examples007_Magic\obj\Debug\net6.0\Examples007_Magic.dll
+C:\Users\trizn\OneDrive\Рабочий стол\GeekBrains\Знакомство с языками програмирования (C#)\Examples\Examples007_Magic\obj\Debug\net6.0\refint\Examples007_Magic.dll
+C:\Users\trizn\OneDrive\Рабочий стол\GeekBrains\Знакомство с языками програмирования (C#)\Examples\Examples007_Magic\obj\Debug\net6.0\Examples007_Magic.pdb
+C:\Users\trizn\OneDrive\Рабочий стол\GeekBrains\Знакомство с языками програмирования (C#)\Examples\Examples007_Magic\obj\Debug\net6.0\Examples007_Magic.genruntimeconfig.cache
+C:\Users\trizn\OneDrive\Рабочий стол\GeekBrains\Знакомство с языками програмирования (C#)\Examples\Examples007_Magic\obj\Debug\net6.0\ref\Examples007_Magic.dll
