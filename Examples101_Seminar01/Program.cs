@@ -49,9 +49,9 @@
 // int x = Convert.ToInt32(Console.ReadLine());
 // Console.Write("Введите второе число: ");
 // int y = Convert.ToInt32(Console.ReadLine());
-// if (x > y) Console.WriteLine ("Число " + x + " - большее," + " а число " + y + " - меньшее.");
-//    else if (x < y) Console.WriteLine ("Число " + y + " - большее," + "а число " + x + " - меньшее.");
-//        else if (x == y) Console.WriteLine ("Числa " + x + " и " + y +" равны"); 
+// if (x > y) Console.WriteLine ("Первое число " + x + " больше чем второе число " + y);
+//     else if (x < y) Console.WriteLine ("Первое число " + x + " меньше чем второе число " + y);
+//         else if (x == y) Console.WriteLine ("Введенные числа равны " + x); 
 
 // ДЗ №2:
 // Напишите программу, которая принимает на вход три числа и выдает максимальное из этих чисел
@@ -62,7 +62,7 @@
 // int x = Convert.ToInt32(Console.ReadLine());
 // Console.Write("Введите второе число: ");
 // int y = Convert.ToInt32(Console.ReadLine());
-// Console.Write("Введите второе число: ");
+// Console.Write("Введите третье число: ");
 // int z = Convert.ToInt32(Console.ReadLine());
 // int max = x;
 // if (y > max) max = y;
@@ -84,10 +84,10 @@
 
 // Решение:
 
-// Console.Write("Введите число: ");
-// int n = Convert.ToInt32(Console.ReadLine());
-// int i = 1;
-// while (i<=n) {
-//    if (i%2==0) Console.Write(i + " ");
-//    i++;
-// }
+ Console.Write("Введите число: ");
+ int n = Convert.ToInt32(Console.ReadLine());
+ int i = 1;
+ while (i<=n) {
+    if (i%2==0) Console.Write(i + "\t");
+    i++;
+ }
