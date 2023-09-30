@@ -121,11 +121,37 @@
 
 // Решение :
 
-// Console.Write("Введите число: ");
-// int n = Convert.ToInt32(Console.ReadLine());
+int f (String Msg)
+    {
+    Console.Write(Msg);
+    int Result = Convert.ToInt32(Console.ReadLine());
+    return Result;
+    }
 
-int Prompt (String Message)
+int G (int n)
+    {
+        while (n > 999)
+        {
+            n /= 10;
+        }
+        return n %10;
+    }
 
+bool V (int n)
+    {
+        if (n < 100)
+        {
+        Console.Write("Третьей цифры нет");
+        return false;
+        }
+        return true;
+    }
+
+int n = f ("Введите число: ");
+if (V(n))
+{
+    Console.WriteLine(G(n));
+}
 
 // _____________________________________________________________________________________________________________
 
