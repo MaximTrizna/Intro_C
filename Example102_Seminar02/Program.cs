@@ -121,38 +121,43 @@
 
 // Решение :
 
-int f (String Msg)
-    {
-    Console.Write(Msg);
-    int Result = Convert.ToInt32(Console.ReadLine());
-    return Result;
-    }
+// int f (String Msg)
+//     {
+//     Console.Write(Msg);
+//     int Result = Convert.ToInt32(Console.ReadLine());
+//     return Result;
+//     }
 
-int G (int n)
-    {
-        while (n > 999)
+        int G(int n)
         {
-            n /= 10;
+            while (n > 999)
+            {
+                n /= 10;
+            }
+            return n % 10;
         }
-        return n %10;
-    }
 
-bool V (int n)
-    {
+        // bool V (int n)
+        //     {
+        //         if (n < 100)
+        //         {
+        //         Console.Write("Третьей цифры нет");
+        //         return false;
+        //         }
+        //         return true;
+        //     }
+
+        // int n = f ("Введите число: ");
+
+        Console.Write("Введите число: ");
+        int n = Convert.ToInt32(Console.ReadLine());
         if (n < 100)
+            Console.Write("Третьей цифры нет");
+        else
         {
-        Console.Write("Третьей цифры нет");
-        return false;
+            Console.WriteLine(G(n));
         }
-        return true;
-    }
-
-int n = f ("Введите число: ");
-if (V(n))
-{
-    Console.WriteLine(G(n));
-}
-
+   
 // _____________________________________________________________________________________________________________
 
 // Задача 15: Напишите программу, которая принимает на вход цифру, обозначающую день недели, и проверяет, является ли этот день выходным.
