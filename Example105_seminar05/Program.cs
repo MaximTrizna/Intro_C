@@ -188,21 +188,23 @@ ReleaseArray(array); */
 
 // Решение: 
 
-using System;
+/* using System;
 public class Answer
 {
     public static int CountEvenElements(int[] array)
     { 
     // Введите свое решение ниже
-
-
+        int m = 0;
+        for (int i = 0; i < array.Length; i++)
+            if (array[i] % 2 == 0)
+            m += 1;
+        return m;
     }
 
     public static void PrintArray(int[] array)
     {
     // Введите свое решение ниже
-        
-
+        Console.WriteLine($"{string.Join("\t", array)}\t");
     }
 
 
@@ -240,7 +242,7 @@ public class Answer
         Console.WriteLine($"Количество четных элементов: {evenCount}");
     }
 }
-
+ */
 
  // _______________________________________________________________________________________________________________________________________________________________________
 
@@ -265,14 +267,18 @@ public class Answer
     public static int SumOddElements(int[] array)
     {
 // Введите свое решение ниже
-
+        int m = 0;
+        for (int i = 0; i < array.Length; i++)
+            if (array[i] % 2 != 0)
+            m += array[i];
+        return m;
 
     }
 
     public static void PrintArray(int[] array)
     {
          // Введите свое решение ниже
-
+        Console.WriteLine($"{string.Join("\t", array)}\t");
 
     }
 
@@ -331,36 +337,38 @@ public class Answer
 // Разность между максимальным и минимальным элементом = 8.09
 
 // Решение: 
-/* 
+
 using System;
 
 public class Answer
 {
     public static double FindMax(double[] array)
     {     // Введите свое решение ниже
-
-
-       
+        double max = array[0];
+        for (int i = 0; i < array.Length; i++)
+            if (array[i] > max)
+            max = array[i];
+        return max;       
     }
 
     public static double FindMin(double[] array)
     {     // Введите свое решение ниже
-
-
-
+        double min = array[0];
+        for (int i = 0; i < array.Length; i++)
+            if (array[i] < min)
+            min = array[i];
+        return min;       
     }
 
     public static double CalcDifferenceBetweenMaxMin(double[] array)
     {// Введите свое решение ниже
-
-
-
+        double m = FindMax(array) - FindMin(array);
+        return m;
     }
 
     public static void PrintArray(double[] array)
     {// Введите свое решение ниже
-
-
+      Console.WriteLine($"{string.Join("\t", array)}\t");
     }
  // Не удаляйте и не меняйте метод Main! 
 
@@ -397,4 +405,6 @@ public class Answer
         Console.WriteLine($"Разность между максимальным и минимальным элементом = {diff:f2}");
     }
 }
- */
+
+// double d = 0.12312332453;
+// Console.WriteLine("{0:0.##}", d);
