@@ -269,7 +269,7 @@ public class Answer
 // Введите свое решение ниже
         int m = 0;
         for (int i = 0; i < array.Length; i++)
-            if (array[i] % 2 != 0)
+            if (i % 2 != 0)
             m += array[i];
         return m;
 
@@ -338,7 +338,7 @@ public class Answer
 
 // Решение: 
 
-using System;
+/* using System;
 
 public class Answer
 {
@@ -368,7 +368,12 @@ public class Answer
 
     public static void PrintArray(double[] array)
     {// Введите свое решение ниже
-      Console.WriteLine($"{string.Join("\t", array)}\t");
+
+        // Console.WriteLine($"{string.Join("\t", array)}\t");
+       
+        for (int i=0 ; i < array.Length ; i++)
+        Console.Write($"{array[i]:f2}\t");
+        Console.WriteLine();
     }
  // Не удаляйте и не меняйте метод Main! 
 
@@ -404,7 +409,4 @@ public class Answer
         double diff = CalcDifferenceBetweenMaxMin(array);
         Console.WriteLine($"Разность между максимальным и минимальным элементом = {diff:f2}");
     }
-}
-
-// double d = 0.12312332453;
-// Console.WriteLine("{0:0.##}", d);
+} */
