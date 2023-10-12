@@ -135,6 +135,15 @@ Console.WriteLine($"[{string.Join(", ", newArr)}]");
 
 // Решение:
 
+/* 
+Console.WriteLine("Введите произвольное количество чисел: ");
+int[] size = Console.ReadLine().Split(" ").Select(x => int.Parse(x)).ToArray();
+int sum = 0;
+for (int i=0; i < size.Length; i++)
+    if (size[i] > 0) sum++; 
+Console.WriteLine($"Чисел больше 0 - {sum}");
+ */
+
 
 //________________________________________________________________________________________________________________________________________________________________________
 
@@ -143,6 +152,41 @@ Console.WriteLine($"[{string.Join(", ", newArr)}]");
 // b1 = 2, k1 = 5, b2 = 4, k2 = 9 -> (-0,5; -0,5)
 
 // Решение:
+/* 
+static void IntPoint (double b1, double b2, double k1, double k2)
+{
+    double x = -(b1-b2)/(k1-k2);
+    double y = k2*(-(b1-b2)/(k1-k2))+b2;
+    Console.WriteLine($"Точкв пересечения двух прямых имеет координаты: ({x}; {y})");
+}
+Console.WriteLine("Для нахождения точки пересечения прямых неоходимо ввести координаты:");
+Console.Write("b1 = ");
+int b1 = Convert.ToInt32(Console.ReadLine());
+Console.Write("k1 = ");
+int k1 = Convert.ToInt32(Console.ReadLine());
+Console.Write("b2 = ");
+int b2 = Convert.ToInt32(Console.ReadLine());
+Console.Write("k2 = ");
+int k2 = Convert.ToInt32(Console.ReadLine());
+IntPoint (b1,b2,k1,k2);
+ */
+// y = k1*x + b1;
+// y = k2*x + b2;
 
+// Вычтем из первого уравнения второе
 
+// y-y = k1*x + b1 - (k2*x + b2);
+// y   = k2*x + b2;
+//       =>                   
+// 0   = (k1*x - k2*x) + (b1 - b2) => x*(k1-k2) + (b1-b2);
+// y   =  k2*x + b2;
+ 
+// Из первого уравнения найдем значение x
+
+// x*(k1-k2) = -(b1-b2);
+// y = k2*x + b2;
+//       =>                  
+// x = -(b1-b2) / (k1-k2);
+// y = k2 * (-(b1-b2) / (k1-k2)) + b2;
+ 
 //________________________________________________________________________________________________________________________________________________________________________
