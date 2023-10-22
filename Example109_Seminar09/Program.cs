@@ -10,8 +10,8 @@
 // 17 -> такого числа в массиве нет
 
 // Решение:
-
 /* 
+
 void InputMatrix(int[,] matrix)
 {
     for (int i = 0; i < matrix.GetLength(0); i++)
@@ -57,7 +57,7 @@ InputMatrix(matrix);
 PrintMatrix(matrix);
 Console.WriteLine();
 ReleaseMatrix(matrix, n); 
-*/
+ */
 
 // ______________________________________________________________________________________________________________
 
