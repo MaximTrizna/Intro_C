@@ -418,24 +418,23 @@ public class Answer {
     public static int[] FindNumberByPosition (int [,] matrix, int rowPosition, int columnPosition)
     {  
       // Введите свое решение ниже
-    int[] results = new int [3];
-        if (rowPosition > matrix.GetLength(0) || columnPosition > matrix.GetLength(1)) 
-            return results;                     
-        else 
-            results[0] = rowPosition; results[1] = columnPosition; results[2] = matrix[results[0], results[1]];                            
-    return results;
+    int[] number = { 0, -1 };
+        if (rowPosition >= 0 && rowPosition < matrix.GetLength(0) && columnPosition >= 0 && columnPosition < matrix.GetLength(1))
+        {
+            number[1] = 0;
+            number[0] = matrix[rowPosition, columnPosition];
+        }
+        return number;
     } 
 
     public static void PrintCheckIfError (int[] results, int X, int Y)
     {
-        if (X > results[0] || Y > results[1])
-            Console.Write("There is no such index");
-        else
-            Console.Write($"The number in [{X}, {Y}] is {results[2]}");    
+        if (results[1]==-1){Console.WriteLine("There is no such index");}
+        else {Console.WriteLine($"The number in [{X}, {Y}] is {results[0]}");  
             
     }
     
-
+    }
     // Не удаляйте и не меняйте метод Main! 
     static public void Main(string[] args) {
         int n, m, k, x, y;
@@ -451,7 +450,7 @@ public class Answer {
            n = 5;
            m = 5;
            k = 2;
-           x = 4;
+           x = 3;
            y = 2;
         }
 
@@ -461,8 +460,8 @@ public class Answer {
         PrintCheckIfError(FindNumberByPosition(result, x, y), x, y);
     }
 }
- */
 
+ */
 //_______________________________________________________________________________________________________________
 
 // Задача 3.
