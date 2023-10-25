@@ -11,7 +11,6 @@ string rec(int n)
         return "1";
     return $"{n}, " + rec(n - 1);    
 }
-
 Console.Write("Введите элемент: "); 
 int n = Convert.ToInt32(Console.ReadLine());
 Console.WriteLine(rec(n));
@@ -29,7 +28,6 @@ int rec(int m, int n)
         return m;
     return rec(m, n - 1) + n;
 }
-
 Console.Write("Введите элемент: "); 
 int m = Convert.ToInt32(Console.ReadLine());
 Console.Write("Введите элемент: "); 
@@ -44,16 +42,16 @@ Console.WriteLine(rec(m, n));
 // Решение:
 
 // _____________________________________________________________________________________________________________________________
-
+/* 
 int rec(int m, int n)
 {
-    if (n == m)
-        return m;
-    return rec(m, n - 1) + n;
+    if (m == 0) return n + 1;
+        else if (n == 0) return rec(m - 1, 1);
+            else return rec(m - 1, rec(m, n - 1));
 }
-
 Console.Write("Введите элемент: "); 
 int m = Convert.ToInt32(Console.ReadLine());
 Console.Write("Введите элемент: "); 
 int n = Convert.ToInt32(Console.ReadLine());
 Console.WriteLine(rec(m, n));
+ */
